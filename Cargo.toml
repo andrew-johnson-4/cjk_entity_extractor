@@ -1,0 +1,11 @@
+[package]
+name = "cjk_entity_extractor"
+version = "0.0.1"
+authors = ["Andrew <andrew@subarctic.org>"]
+license = "MIT OR Apache-2.0"
+description = "Entity Extractor for CJKV Text"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/andrew-johnson-4/cjk_entity_extractor"
+documentation = "https://docs.rs/cjk_entity_extractor"
+keywords = ["chinese","japanese","korean","vietnamese","nlp"]
